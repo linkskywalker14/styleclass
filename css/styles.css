@@ -22,3 +22,22 @@ p.author {
 .fartbutt {
   font-weight: 700;
 }
+
+img {
+  float: right;
+  margin: 0 10px 0 10px;
+}
+
+.sidebar {
+  float: left;
+  width: 15%;
+  margin: 0 10px 0 10px;
+  padding: 0 3px 0 3px;
+  background-color: #226644;
+  color: yellow;
+}
+
+.column {
+  width: 300px;
+  float: left;
+}
