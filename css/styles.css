@@ -9,3 +9,12 @@ p.author {
   font-weight: bold;
 
 }
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+
+}
