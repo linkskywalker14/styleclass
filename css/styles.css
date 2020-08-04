@@ -1,0 +1,11 @@
+p.intro {
+  width: 50%;
+  font-style: oblique;
+}
+
+p.author {
+  width: 75%;
+  font-style: oblique;
+  font-weight: bold;
+
+}
